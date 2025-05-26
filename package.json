@@ -8,11 +8,11 @@
 
   "private": true,
 
-  "main": "app.js",
+  "main": "index2.js",
 
   "scripts": {
 
-    "start": "node app.js",
+    "start": "node index2.js",
 
     "test": "mocha"
 
