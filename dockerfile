@@ -9,7 +9,6 @@ COPY . .
 
 #Install the dependecies
 RUN npm install
-RUN npm
 EXPOSE 3000
 
 #Run the code
