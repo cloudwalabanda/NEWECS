@@ -9,8 +9,8 @@ COPY . .
 
 #Install the dependecies
 RUN npm install
-RUN npm run test
+RUN npm
 EXPOSE 3000
 
 #Run the code
-CMD ["node","index.js"]
+CMD ["node","index2.js"]
